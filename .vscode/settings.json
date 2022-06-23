@@ -2,6 +2,7 @@
 	"workbench.editorAssociations": {
 		"*.dmi": "imagePreview.previewEditor"
 	},
+<<<<<<< Updated upstream
 	"gitlens.advanced.blame.customArguments": [
 		"--ignore-revs-file", "${workspaceRoot}/.git-blame-ignore-revs"
 	],
@@ -20,4 +21,10 @@
 	"[javascript]": {
 		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
 	},
+=======
+	"workbench.colorTheme": "Default Dark+",
+	"files.associations": {
+		"vector": "cpp"
+	}
+>>>>>>> Stashed changes
 }
